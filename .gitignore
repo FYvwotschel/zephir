@@ -5,6 +5,9 @@
 #
 # https://help.github.com/articles/ignoring-files/#create-a-global-gitignore
 
+# IDEs
+.idea
+
 # Directories to ignore (do not add trailing '/'s, they skip symlinks).
 .zephir
 .libs
